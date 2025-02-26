@@ -1,8 +1,4 @@
 ***
-Got it! Let's focus on improving the description's structure and comments instead of writing the code. Here's a more structured version of your description with comments:
-
----
-
 **Task:**
 
 Implement Java code based on the following specifications. The code should match the specifications precisely.
@@ -81,10 +77,7 @@ String out = obj.purchaseItem(itemDet, cusDet);
 // Output
 // out: "Order Successful"
 ```
-
----
-
-This version of your description should be clearer and better structured. Let me know if there's anything else you need! ***
+ ***
 
 code :
 
